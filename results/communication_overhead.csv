@@ -1,0 +1,3 @@
+setting,model_size_MB,per_round_MB,total_MB_full_budget,n_clients,n_rounds
+fedavg,0.001568,0.316736,19.00416,101,60
+fedprox,0.001568,0.316736,19.00416,101,60
