@@ -1,0 +1,21 @@
+feature,coefficient,abs_coefficient,train_n_positive,direction
+dx_Cardiac arrest (with or without respiratory arrest; for respiratory arrest see Respiratory System),0.36925238,0.36925238,1590.0,increases risk
+"dx_CABG alone, coronary artery bypass grafting",-0.32314146,0.32314146,2121.0,decreases risk
+dx_Diabetic ketoacidosis,-0.28809172,0.28809172,1080.0,decreases risk
+dx_Other,-0.27097154,0.27097154,29756.0,decreases risk
+"dx_Bleeding, upper GI",-0.24632558,0.24632558,1069.0,decreases risk
+"dx_Infarction, acute myocardial (MI)",-0.23167272,0.23167272,2553.0,decreases risk
+"dx_Sepsis, renal/UTI (including bladder)",-0.23103587,0.23103587,1732.0,decreases risk
+dx_Aortic valve replacement (isolated),-0.22377868,0.22377868,987.0,decreases risk
+"dx_Rhythm disturbance (atrial, supraventricular)",-0.21304935,0.21304935,1158.0,decreases risk
+dx_Seizures (primary-no structural brain disease),-0.2089526,0.2089526,911.0,decreases risk
+"dx_CHF, congestive heart failure",-0.17999178,0.17999178,1990.0,decreases risk
+dx_Emphysema/bronchitis,-0.14858808,0.14858808,1189.0,decreases risk
+"dx_Coma/change in level of consciousness (for hepatic see GI, for diabetic see Endocrine, if related to cardiac arrest, see CV)",-0.14164129,0.14164129,856.0,decreases risk
+gender_male,-0.12640136,0.12640136,32266.0,decreases risk
+age,0.123753786,0.123753786,,increases risk
+"dx_Sepsis, GI",-0.10868263,0.10868263,977.0,decreases risk
+"dx_Sepsis, unknown",-0.09431508,0.09431508,825.0,decreases risk
+lab_sodium_b2,0.08248892,0.08248892,,increases risk
+lab_bicarbonate_b2,-0.07504113,0.07504113,,decreases risk
+"dx_Pneumonia, bacterial",-0.06847957,0.06847957,1234.0,decreases risk
